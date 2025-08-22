@@ -6,4 +6,5 @@ def unique_elements(lst):
             unique_lst.append(item)
             seen.add(item)
     return unique_lst
+my list
 
